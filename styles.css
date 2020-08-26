@@ -1,0 +1,13 @@
+*{
+    padding:0;
+    margin:0;
+    
+}
+  
+body{
+    background: linear-gradient(to right, rgb(230, 111, 32), rgb(255, 228, 72));
+}
+
+h1{
+    text-align: center;
+}
